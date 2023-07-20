@@ -1,2 +1,0 @@
-"# stoicile" 
-"# stoicile" 
